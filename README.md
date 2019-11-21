@@ -9,7 +9,7 @@ What I've learned so far:
 
 -Learned a lot more about Git and Githhub with this project than I thought I would so far(used to think a git push and git commit were the same thing - quickly realized they weren't).
 
--Learned that when lnking CSS Stylesheet, it helps to have everything speled correctly and the correct closing tag - it'll save 21 minutes of fustration.
+-Learned that when lnking CSS Stylesheet, it helps to have everything spelled correctly and the correct closing tag - it'll save 21 minutes of fustration.
 
 -
 
