@@ -1,13 +1,44 @@
-.nav {
+header {
+   font-size: 12px;
+   padding-top: 20px;
+}
+
+body {
+    font-family: arial,sans-serif;
     color: grey;
 }
 
+#search {
+    width: 150px;
+    height: 40px;
+    box-align: center;
+}
+
 li {
+    display: inline;
     color: red;
+
+}
+
+a {
+    color: grey;
+    padding: 8px;
+}    
+
+#Googlelogo {
+    height: 92px;
+    width: 272px;
+    padding-top: 109px;
+    text-align: center
+
 }
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+  }
+
+  footer {
+
   }
